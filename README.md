@@ -116,9 +116,9 @@ ORDER BY product_count DESC;
 brand       product_count
 Cadbury	    37
 Ferrero	    37
-Lindt	     35
-Mars	     33
-Godiva	    30
+Lindt	      35
+Mars	       33
+Godiva	     30
 Hershey	    28
 */
 
@@ -193,10 +193,10 @@ GROUP BY st.store_name, st.city;
 /* Result :
 store_name            st.city   total_revenue
 Chocolate Store 100	  Berlin	  $256824.77
-Chocolate Store 22	  Berlin	  $258914.68
+Chocolate Store 22	   Berlin	  $258914.68
 Chocolate Store 3	    Berlin	  $253451.97
-Chocolate Store 36	  Berlin	  $255786.73
-Chocolate Store 49	  Berlin	  $257361.25
+Chocolate Store 36	   Berlin	  $255786.73
+Chocolate Store 49	   Berlin	  $257361.25
 ..................    ......    .........
 */
 ```
@@ -241,7 +241,7 @@ GROUP BY c.loyalty_member;
 
 /* Result :
 loyalty_member     total_revenue
-Loyalty Member	   $12,773,040.47
+Loyalty Member	    $12,773,040.47
 Non-Loyalty Member $12,713,088.39
 */
 ```
