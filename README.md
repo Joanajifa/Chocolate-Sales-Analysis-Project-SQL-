@@ -1,7 +1,7 @@
 # Chocolate Sales Analysis Project SQL
 SQL analysis of chocolate sales data using Microsoft SQL Server Management Studio (SSMS), including joins, aggregations, subqueries and business insights.
 
-# Table of Content 
+## Table of Content 
 
 ## Project Overview
 The Chocolate Sales Analysis Project is a SQL-based data analytics project designed to explore and analyze chocolate sales data from multiple business dimensions, including customers, products, stores, sales transactions, and calendar data.
@@ -100,6 +100,7 @@ Chocolate Store 5	  Sydney
 SELECT product_name, cocoa_percent
 FROM products
 WHERE cocoa_percent > 70;
+
 -- Result : 76 products have a cocoa percentage greater than 70%
 ```
 
@@ -110,13 +111,14 @@ WHERE cocoa_percent > 70;
 FROM products
 GROUP BY brand
 ORDER BY product_count DESC;
+
 /* Result :
 brand       product_count
 Cadbury	    37
 Ferrero	    37
 Lindt	      35
-Mars	      33
-Godiva	    30
+Mars	       33
+Godiva	     30
 Hershey	    28
 */
 
@@ -127,6 +129,7 @@ Hershey	    28
 SELECT *
 FROM sales
 WHERE discount > 0;
+
 -- Result : 374872 orders had discount included 
 ```
 
@@ -134,6 +137,7 @@ WHERE discount > 0;
 ```sql
 SELECT SUM(revenue) AS total_revenue
 FROM sales;
+
 -- Result : $25486128.86
 ```
 
@@ -141,6 +145,7 @@ FROM sales;
 ```sql
 SELECT SUM(profit) AS total_profit
 FROM sales;
+
 -- Result : $10194564.63
 ```
 
@@ -149,9 +154,10 @@ FROM sales;
 SELECT MIN(profit) AS min_profit,
        MAX(profit) AS max_profit
 FROM sales;
+
 /* Result :
 min_profit    max_profit
-$0.73          $37.43
+$0.73         $37.43
 */
 ```
 
@@ -322,12 +328,12 @@ WHERE s.unit_price >
 ORDER BY s.unit_price DESC;
 
 /* Result :
-product_name	        unit_price
+product_name	         unit_price
 White Chocolate 80%	  $15.00
 Praline Chocolate 50%	$15.00
-Dark Chocolate 50%	  $15.00
+Dark Chocolate 50%	   $15.00
 Truffle Chocolate 70%	$15.00
-Milk Chocolate 80%	  $15.00
+Milk Chocolate 80%	   $15.00
 */
 ```
 ## Author
