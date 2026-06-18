@@ -1,11 +1,23 @@
-# Chocolate Sales Analysis Project SQL
-SQL analysis of chocolate sales data using Microsoft SQL Server Management Studio (SSMS), including joins, aggregations, subqueries and business insights.
+# 🍫 Chocolate Sales Analysis Project SQL
+SQL analysis of Chocolate Sales Data using Microsoft SQL Server Management Studio (SSMS), including joins, aggregations, subqueries and business insights.
 
-## Table of Content 
+## 📑 Table of Contents
+
+- [Project Overview](#project-overview)
+- [Project Objectives](#project-objectives)
+- [Dataset Description](#dataset-description)
+- [Dataset Availability](#dataset-availability)
+- [Tools & Technologies](#tools--technologies)
+- [Key SQL Concepts Applied](#key-sql-concepts-applied)
+- [SQL Analysis & Queries](#sql-analysis-and-queries)
+- [Key Insights](#key-insights)
+- [Conclusion](#conclusion)
+- [Author](#author)
+- [Get in Touch and Connect](#get-in-touch-and-connect)
 
 ## Project Overview
 The Chocolate Sales Analysis Project is a SQL-based data analytics project designed to explore and analyze chocolate sales data from multiple business dimensions, including customers, products, stores, sales transactions, and calendar data.
-Using MySQL, the project investigates sales performance, customer purchasing behavior, product profitability, and store performance. The goal is to transform raw sales data into meaningful business insights that can support data-driven decision-making.
+Using Microsoft SQL Server and SQL Server Management Studio (SSMS), the project investigates sales performance, customer purchasing behavior, product profitability, and store performance. The goal is to transform raw sales data into meaningful business insights that support data-driven decision-making.
 
 
 ## Project Objectives
@@ -18,7 +30,7 @@ Using MySQL, the project investigates sales performance, customer purchasing beh
 - Discover high-value products and business opportunities.
 
 ## 📊 Dataset Description
-The dataset consists of five interconnec ted tables used to analyze chocolate sales performance across customers, products, stores, and time periods.
+The dataset consists of five interconnected tables used to analyze chocolate sales performance across customers, products, stores, and time periods.
 | Table | Purpose |
 |----------|-------------|
 | Customers | 	Contains customer information such as age, gender, loyalty membership status, and join date. |
@@ -359,22 +371,24 @@ The findings reveal that strategic factors such as store location, product mix, 
 
 Overall, this project showcases the practical use of SQL for business intelligence and data-driven decision-making while demonstrating core analytical skills essential for modern data analytics roles.
 
-## Author
+## 👤 Author
 
 **Joan Ajifa Usman**
 
-- Data Analyst | Business Intelligence Analyst
+Data Analyst | Business Intelligence Analyst
+
+### Skills
+- SQL
 - Excel
 - Power BI
-- SQL
 - Data Visualization
-- Dasboard Development
+- Dashboard Development
 - Data Storytelling
   
 ---
 ## Get in Touch and Connect 
 
-- 🔗 LinkedIn: www.linkedin.com/in/joan-usman-a8a461273
+- 🔗 LinkedIn: https://www.linkedin.com/in/joan-usman-a8a461273
 - 💼 GitHub: https://github.com/Joanajifa/JoanAjifa-Analytics-Portfolio
 - 📧 Email: joanajifa@gmail.com
 
