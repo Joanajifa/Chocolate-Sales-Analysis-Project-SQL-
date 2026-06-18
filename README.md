@@ -352,7 +352,7 @@ Milk Chocolate 80%	   $15.00
 ## Get in Touch and Connect 
 
 - 🔗 LinkedIn: www.linkedin.com/in/joan-usman-a8a461273
-- 💼 GitHub: https://github.com/
+- 💼 GitHub: https://github.com/Joanajifa/JoanAjifa-Analytics-Portfolio
 - 📧 Email: joanajifa@gmail.com
 
 
