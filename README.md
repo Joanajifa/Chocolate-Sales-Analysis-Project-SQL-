@@ -337,6 +337,28 @@ Truffle Chocolate 70%	$15.00
 Milk Chocolate 80%	   $15.00
 */
 ```
+
+## 📈 Key Insights
+
+- The business generated **$25.49 million** in total revenue and **$10.19 million** in total profit, reflecting strong overall financial performance.
+- **Ferrero** was the highest-performing brand by profit contribution, making it the most valuable brand in the portfolio.
+- **Canada** emerged as the top revenue-generating country, indicating a strong market presence and customer demand.
+- **Airport stores** produced the highest revenue among all store types, highlighting the impact of high-traffic retail locations on sales performance.
+- Loyalty program members generated slightly higher revenue than non-members, suggesting that customer retention initiatives positively influence purchasing behavior.
+- **Toronto** recorded the highest number of orders, making it the most active sales city in the dataset.
+- The sales distribution across male and female customers was nearly identical, indicating broad product appeal across customer demographics.
+- Promotional discounts contributed to a significant number of transactions, demonstrating the effectiveness of discount-driven sales strategies.
+- Product categories such as **Praline, White, and Dark Chocolate** accounted for a substantial share of total sales volume, making them key revenue drivers.
+- Higher-value chocolate products maintained strong demand, suggesting opportunities for premium product positioning and increased profitability.
+
+## 📝 Conclusion
+
+This project demonstrates the application of SQL in analyzing large-scale sales data to uncover meaningful business insights. Through data exploration, aggregation, joins, and subqueries, the analysis provided a comprehensive understanding of customer behavior, product performance, store effectiveness, and overall business profitability.
+
+The findings reveal that strategic factors such as store location, product mix, customer loyalty programs, and brand performance significantly influence revenue generation and profitability. By leveraging these insights, businesses can make informed decisions regarding marketing strategies, inventory planning, customer retention, and market expansion.
+
+Overall, this project showcases the practical use of SQL for business intelligence and data-driven decision-making while demonstrating core analytical skills essential for modern data analytics roles.
+
 ## Author
 
 **Joan Ajifa Usman**
