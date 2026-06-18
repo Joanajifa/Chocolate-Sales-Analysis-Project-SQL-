@@ -6,14 +6,6 @@ SQL analysis of chocolate sales data using Microsoft SQL Server Management Studi
 ## Project Overview
 The Chocolate Sales Analysis Project is a SQL-based data analytics project designed to explore and analyze chocolate sales data from multiple business dimensions, including customers, products, stores, sales transactions, and calendar data.
 Using MySQL, the project investigates sales performance, customer purchasing behavior, product profitability, and store performance. The goal is to transform raw sales data into meaningful business insights that can support data-driven decision-making.
-## 🛠️ Tools and Technologies
-
-| Tool / Technology | Purpose |
-|------------------|----------|  
-|Microsoft SQL Server Management Studio (SSMS) | Used for database creation, data import, query execution, and analysis |
-| SQL Server (T-SQL) | Used for data querying, aggregation, filtering, joins, and business analysis |
-| CSV Files | Source data files containing customers, products, stores, calendar, and sales data |
-| GitHub | Used for version control, project documentation, and portfolio presentation |
 
 
 ## Project Objectives
@@ -26,7 +18,7 @@ Using MySQL, the project investigates sales performance, customer purchasing beh
 - Discover high-value products and business opportunities.
 
 ## 📊 Dataset Description
-The dataset consists of five interconnected tables used to analyze chocolate sales performance across customers, products, stores, and time periods.
+The dataset consists of five interconnec ted tables used to analyze chocolate sales performance across customers, products, stores, and time periods.
 | Table | Purpose |
 |----------|-------------|
 | Customers | 	Contains customer information such as age, gender, loyalty membership status, and join date. |
@@ -34,6 +26,15 @@ The dataset consists of five interconnected tables used to analyze chocolate sal
 | Stores |   Contains information about store locations and store types where sales transactions occur. |
 | Calendar | 	Contains date-related information used for analyzing sales trends over time. |
 | Sales | 	The transaction table that records orders, quantities sold, revenue, costs, discounts, and links customers, products, stores, and dates together. |
+
+## 🛠️ Tools & Technologies
+
+| Tool | Purpose |
+|--------|---------|
+| SSMS | Querying and database management |
+| SQL (T-SQL) | Data extraction and transformation |
+| CSV Files | Source dataset |
+| GitHub | Project documentation and version control |
 
 ## Key SQL Concepts Applied
 - Data Import and Database Management
