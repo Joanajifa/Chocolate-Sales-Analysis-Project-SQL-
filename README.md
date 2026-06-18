@@ -116,9 +116,9 @@ ORDER BY product_count DESC;
 brand       product_count
 Cadbury	    37
 Ferrero	    37
-Lindt	      35
-Mars	       33
-Godiva	     30
+Lindt	     35
+Mars	      33
+Godiva	    30
 Hershey	    28
 */
 
